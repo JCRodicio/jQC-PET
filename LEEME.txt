@@ -1,0 +1,30 @@
+========================================================================
+
+			QC-PET v2.0
+
+========================================================================
+       MACRO ImageJ para el Control de Calidad en Medicina Nuclear
+			basado en NEMA NU2-2007 
+========================================================================
+  Desarrollado en el Hospital Universitario Araba por:
+		        Jesús Cortés Rodicio
+			Gaspar Sánchez Merino
+========================================================================
+
+
+
+	Instalación:
+	------------
+
+
+- Copiar la carpeta \QC_PET en la carpeta de macros de ImageJ
+
+- Copiar la carpeta \FWHM en la carpeta de plugins de ImageJ
+
+- Abrir ImageJ (versión 1.42n o superior)
+
+- Ir a Plugins > Macro > Install (Pulsar Ctrl + Shift + M)
+
+- Seleccionar la macro QCPET_v2.0.ijm de la carpeta citada anteriormente
+
+- Aparecerá el botón QCPT en la interfaz del ImageJ
