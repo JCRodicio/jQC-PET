@@ -7,13 +7,12 @@
 			basado en NEMA NU2-2007 
 ========================================================================
   Desarrollado en el Hospital Universitario Araba por:
-		        Jes˙s CortÈs Rodicio
-			Gaspar S·nchez Merino
+		        Jes√∫s Cort√©s Rodicio
 ========================================================================
 
 
 
-	InstalaciÛn:
+	Instalaci√≥n:
 	------------
 
 
@@ -21,10 +20,10 @@
 
 - Copiar la carpeta \FWHM en la carpeta de plugins de ImageJ
 
-- Abrir ImageJ (versiÛn 1.42n o superior)
+- Abrir ImageJ (versi√≥n 1.42n o superior)
 
 - Ir a Plugins > Macro > Install (Pulsar Ctrl + Shift + M)
 
 - Seleccionar la macro QCPET_v2.0.ijm de la carpeta citada anteriormente
 
-- Aparecer· el botÛn QCPT en la interfaz del ImageJ
+- Aparecer√° el bot√≥n QCPT en la interfaz del ImageJ
